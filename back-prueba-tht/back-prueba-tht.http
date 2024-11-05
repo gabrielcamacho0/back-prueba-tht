@@ -1,0 +1,6 @@
+@back_prueba_tht_HostAddress = http://localhost:5186
+
+GET {{back_prueba_tht_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

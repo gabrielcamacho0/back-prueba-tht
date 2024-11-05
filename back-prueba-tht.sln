@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "back-prueba-tht", "back-prueba-tht\back-prueba-tht.csproj", "{A1D027E5-4D6B-46EE-ABB9-4A34102324AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D027E5-4D6B-46EE-ABB9-4A34102324AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D027E5-4D6B-46EE-ABB9-4A34102324AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D027E5-4D6B-46EE-ABB9-4A34102324AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D027E5-4D6B-46EE-ABB9-4A34102324AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A0BB67-C636-4416-B21C-A03817BC895E}
+	EndGlobalSection
+EndGlobal
